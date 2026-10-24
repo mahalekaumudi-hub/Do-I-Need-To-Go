@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Do I Need To Go?
 
 Do I Need To Go? is a smart college service assistant. Students can search for services like Bonafide Certificate, Exam Form, Migration Certificate, Degree Certificate, and Extra-Curricular Activity Certificate, and the app shows whether a physical visit is likely required.
@@ -180,3 +181,7 @@ Example response:
   "status": "sample"
 }
 ```
+=======
+# Do-I-Need-To-Go
+A smart student service assistant that helps students understand whether a physical college visit is required.
+>>>>>>> 8e6ada6c17b428bc00367aaf5f56fda968d501da
